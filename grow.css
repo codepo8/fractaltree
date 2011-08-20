@@ -1,0 +1,13 @@
+*{margin:0;padding:0;font-size:15px;font-family:helvetica,arial,sans-serif}
+body{background:#111;color:#fff;}
+footer,section,header{display:block;}
+canvas{display:block;background:#000}
+section{margin:0 auto;width:800px;}
+input{margin:0 .5em}
+form{position:relative;}
+button{margin:0 .5em 0 0;position:absolute;right:0;top:5px}
+form{background:#060;color:#fff;padding:5px;}
+footer,p{color:#fff;width:790px;text-align:right;padding:5px;margin:0 auto;}
+p{text-align:left;padding:1em 0}
+footer a{color:#ccc;}
+h1{margin:10px auto;width:800px;color:#fff;font-size:30px;font-family:Futura,helvetica,sans-serif;font-weight:normal}
